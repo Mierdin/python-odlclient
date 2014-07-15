@@ -12,7 +12,7 @@ Installation requires Python 2.7 and associate `pip` tool
 
 ## ODL Links
 
-* https://wiki.opendaylight.org/view/OpenDaylight_Controller:REST_Reference_and_Authentication
+* [ODL REST API Reference](https://wiki.opendaylight.org/view/OpenDaylight_Controller:REST_Reference_and_Authentication)
 
 Build status
 ============
