@@ -10,6 +10,9 @@ Installation requires Python 2.7 and associate `pip` tool
     
     pip install -r requirements.txt --allow-all-external && sudo python setup.py install
 
+## ODL Links
+
+* https://wiki.opendaylight.org/view/OpenDaylight_Controller:REST_Reference_and_Authentication
 
 Build status
 ============
